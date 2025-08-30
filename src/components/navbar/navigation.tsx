@@ -393,7 +393,7 @@ export function Navigation() {
           {/* Logo */}
           <Link href="https://green.edu.bd" className="flex items-center space-x-2">
             <Image
-              src="https://green.edu.bd/public/images/primary-logo/GUBLogo.svg"
+              src="/logo/GUBLogo.svg"
               alt="Green University of Bangladesh"
               width={70}
               height={70}
@@ -478,7 +478,7 @@ export function Navigation() {
               <SheetContent side="right" className="w-full sm:w-[400px] overflow-y-auto fixed inset-0 z-50">
                 <div className="flex items-center justify-between pb-4 border-b">
                   <Image
-                    src="https://green.edu.bd/public/images/primary-logo/GUBLogo.svg"
+                    src="/logo/GUBLogo.svg"
                     alt="Green University of Bangladesh"
                     width={50}
                     height={50}
